@@ -5,5 +5,6 @@ rencana i am
 -php
 -javascript
 -php framework
+  laravel
 -python framemwork
 -excel
