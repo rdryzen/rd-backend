@@ -2,4 +2,5 @@ rd resolusi
 -belajar backend sampe jago
 -jadi programmer
 -jago ngoding
--membuat web sendiri
+-membuat web 
+-membuat apk sendiri
