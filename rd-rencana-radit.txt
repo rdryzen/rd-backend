@@ -3,6 +3,7 @@ rencana i am
 -python
 -java
 -php
+  *laravel
 -javascript
 -php framework
 -python framemwork
