@@ -6,3 +6,4 @@ rencana i am
 -javascript
 -php framework
 -python framemwork
+-excel
